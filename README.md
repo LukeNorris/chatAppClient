@@ -1,5 +1,7 @@
 <h1>Realtime Chat Application</h1>
 
+<img src="https://github.com/LukeNorris/chatAppClient/blob/master/public/chatapp_screenshot.png" alt="screenshot of chat application" width="600px"/>
+
 [Live Site on hosted Netlify](https://amazing-yonath-882eb2.netlify.app/)
 
 This is a code repository for the clientside app corresponding Youtube video tutorial from  [JavaScript Mastery](https://www.youtube.com/watch?v=ZwFA3YMfkoc).
